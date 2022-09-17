@@ -1,5 +1,6 @@
 THIS CURRENTLY DOES NOT WORK
 -----------------------------------------------------------------------------------
+It worked when I first made it, but it seems that a python update broke it.
 Keyboard Hit Sounds
 -----------------------------------------------------------------------------------
 A python program that will play a sound everytime you hit any key on your keyboard.
