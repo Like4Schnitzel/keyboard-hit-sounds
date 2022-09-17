@@ -1,5 +1,4 @@
-THIS CURRENTLY DOES NOT WORK
-It worked when I first made it, but it seems that a python update broke it.
+THIS CURRENTLY DOES NOT WORK, it worked when I first made it, but it seems that a python update broke it.
 -----------------------------------------------------------------------------------
 Keyboard Hit Sounds
 -----------------------------------------------------------------------------------
