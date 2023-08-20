@@ -31,5 +31,4 @@ while True:
         if keyboard.read_key():
             sound(chance, mp3names)
     except:
-        #does nothing
-        print("", end="")
+        pass
